@@ -12,7 +12,7 @@ API desenvolvida com Django Rest Framework para gerenciamento de estudantes e cu
 ## ⚙️ Como rodar
 
 ```bash
-git clone https://github.com/seu-usuario/escola.git](https://github.com/kennedy-silva/escola_DRF.git
+git clone https://github.com/kennedy-silva/escola_DRF.git
 cd escola
 python -m venv .venv
 source .venv/bin/activate
